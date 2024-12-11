@@ -1,0 +1,3 @@
+Este repositorio reúne proyectos enfocados en la optimización del tiempo de ejecución y el costo computacional. A través de la resolución de diversos retos relacionados con problemas comunes en la comunidad tecnológica, se exploran y comprenden los fundamentos de la optimización en el ámbito del Aprendizaje Automático.
+
+Incluye actividades guiadas, desafíos prácticos y un proyecto final, todos desarrollados como parte de la asignatura **03 Algoritmos de Optimización** del Máster en Inteligencia Artificial de la Universidad Internacional de Valencia (VIU). Este trabajo refleja un enfoque práctico y teórico para abordar problemas de eficiencia computacional, promoviendo soluciones efectivas e innovadoras.
